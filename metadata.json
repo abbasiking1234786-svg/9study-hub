@@ -1,0 +1,6 @@
+{
+  "name": "9Study Hub",
+  "description": "Educational exam preparation platform and funny quiz game for Class 9 students in Pakistan (Sindh Boards), created by M. Mubashir (EAB Haroon Bharia College).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
